@@ -10,3 +10,5 @@ https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programac
     caso contrário devera multiplicar A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e
     imprimir seu valor na tela.
 - 4 Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
+- 5 Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse 
+    usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20).
