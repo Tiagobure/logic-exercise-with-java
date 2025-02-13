@@ -20,3 +20,4 @@
 - 6  Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 
 - 7 Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
+- 8 Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
