@@ -43,3 +43,18 @@
 - 10 Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
 - 11 Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e 
   se o aluno foi aprovado ou reprovado. Para o aluno ser considerado aprovado sua média final deve ser maior ou igual a 7.
+
+- 12 Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento
+     pelo comprador e imprima na tela o valor final do produto a ser pago. Utilize os códigos da tabela de condições de pagamento para efetuar o    cálculo adequado.
+
+ 
+
+ ## Tabela de Código de Condições de Pagamento
+
+                À Vista em Dinheiro ou Pix, recebe 15% de desconto
+
+                À Vista no cartão de crédito, recebe 10% de desconto
+
+                Parcelado no cartão em duas vezes, preço normal do produto sem juros
+
+                Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
