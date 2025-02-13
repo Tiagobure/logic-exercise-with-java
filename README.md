@@ -18,3 +18,5 @@
     usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20).
 
 - 6  Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
+
+- 7 Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
