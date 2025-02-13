@@ -38,3 +38,6 @@
                 Entre 35,0 e 39,9 | Obesidade grau II (severa)
 
                 Maior ou igual a 40 | Obesidade grau III (mórbida)
+
+***
+- 10 Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
